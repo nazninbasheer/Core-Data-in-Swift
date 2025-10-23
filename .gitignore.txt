@@ -1,0 +1,46 @@
+# ===============================
+# Swift + Xcode + Core Data .gitignore
+# ===============================
+
+# Build and derived data
+build/
+DerivedData/
+
+# Xcode workspace and user data
+*.xcworkspace
+xcuserdata/
+*.xccheckout
+*.xcuserstate
+*.moved-aside
+*.xcuserdatad
+*.xcodeproj/project.xcworkspace/
+*.xcodeproj/xcuserdata/
+
+# Swift Package Manager
+.build/
+Packages/
+Package.pins
+Package.resolved
+
+# CocoaPods
+Pods/
+Podfile.lock
+
+# Carthage
+Carthage/Build/
+
+# Fastlane
+fastlane/report.xml
+fastlane/Preview.html
+fastlane/screenshots/**/*.png
+fastlane/test_output
+
+# macOS system files
+.DS_Store
+__MACOSX/
+
+# Other temporary files
+*.orig
+*.swp
+*.tmp
+*.log
