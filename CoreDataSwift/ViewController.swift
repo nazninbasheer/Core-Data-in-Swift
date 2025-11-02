@@ -1,9 +1,3 @@
-//
-//  ViewController.swift
-//  CoreDataSwift
-//
-//  Created by DDUKK19 on 22/08/25.
-//
 
 import UIKit
 import CoreData
