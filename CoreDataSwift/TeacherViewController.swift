@@ -1,9 +1,4 @@
-//
-//  TeacherViewController.swift
-//  CoreDataSwift
-//
-//  Created by DDUKK19 on 04/10/25.
-//
+
 
 import UIKit
 
